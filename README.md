@@ -1,4 +1,4 @@
-# To do app
+# Project management
 
 ## 🌍 Overview
 A simple project management application using Laravel 11 and React.
